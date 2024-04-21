@@ -1,6 +1,6 @@
 # Text Mining
 
-**Welcome!** This repository contains my lab assignments from the **Text Mining** course.
+**Welcome!** This repository contains my lab assignments and project work from the **Text Mining** course.
 
 **What will you find here?**
 
